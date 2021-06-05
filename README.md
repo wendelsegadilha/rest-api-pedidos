@@ -1,7 +1,7 @@
 # API Rest de Pedidos
 
 ## Sobre o projeto
-[Acessar projeto](https://app-projeto-pedidos.herokuapp.com/swagger-ui.html, "Link para a documentação do projeto")
+[Acessar projeto](https://app-projeto-pedidos.herokuapp.com/swagger-ui.html "Link para a documentação do projeto")
 
 API Rest desenvolvida durante o curso [Spring Boot Expert](https://www.udemy.com/course/spring-boot-expert, "Curso de Spring Boot") ministrado pelo professor Dougllas Sousa.
 A aplicação consiste em uma API Rest que possibilita as opreações basícas de cadastramento de usuários, clientes, produtos, e pedidos, também implementa padrões atuais de segurança
